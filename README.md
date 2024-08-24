@@ -27,6 +27,19 @@ This is a Next.js-based spreadsheet application that mimics the functionality of
 ### Undo/Redo
 - **Undo/Redo Functionality:** Use the "Undo" and "Redo" buttons to revert or reapply changes made to the cells.
 
+### Here is the actual view of the site:
+
+<br>1) ![1](https://github.com/user-attachments/assets/47e4de4b-8741-4721-ab8c-be9b325e67b7)
+
+<br>2) ![2](https://github.com/user-attachments/assets/39eb4aa2-22ad-4d7b-9ec8-a8764459675a)
+
+<br>3) ![3](https://github.com/user-attachments/assets/37e411a8-7c83-4d2e-95e4-bdb1e10233e1)
+
+<br>4) ![4](https://github.com/user-attachments/assets/4ea2b576-973b-4692-a2eb-d88fb5aee5e6)
+
+<br>5) ![6](https://github.com/user-attachments/assets/7e548ae7-9dcf-4266-ae86-5a5c24ea60c5)
+
+
 ## Repository
 
 GitHub Repository: [Spreadsheet Application](https://github.com/Shuboy742/Spreadsheet_App)
