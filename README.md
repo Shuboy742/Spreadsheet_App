@@ -47,3 +47,4 @@ npm install
 
 Run the Development Server:
 npm run dev
+npm run start
